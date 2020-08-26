@@ -1,0 +1,1 @@
+export const corsAn = 'https://cors-anywhere.herokuapp.com/';
